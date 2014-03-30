@@ -1,6 +1,7 @@
-.main_logo
+#headerWrapper .main_logo a
 {
     font-family: 'Rancho', sans-serif;
-    font-size: 1.8em;
-    font-weight: 700;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 0.15em;
 }
