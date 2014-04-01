@@ -6,6 +6,14 @@
     padding-top: 0.15em;
 }
 
+#headerWrapper .main_logo a > .environment
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 0.7em;
+    font-weight: 300;
+    vertical-align: 0.1em;
+}
+
 h1
 {
     font-family: 'Lato', sans-serif;

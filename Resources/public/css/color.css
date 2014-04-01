@@ -8,6 +8,11 @@
     color: #444;
 }
 
+#headerWrapper a .environment
+{
+    color: rgba(0, 0, 0, 0.4);
+}
+
 h1,
 h2,
 h3,
