@@ -30,3 +30,8 @@ span.handle
 {
     color: #bbb;
 }
+
+.order.panels .panel .number
+{
+    background-color: #545167;
+}
